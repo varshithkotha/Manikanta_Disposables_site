@@ -1,0 +1,156 @@
+[
+  {
+    "id": "prod-1775318475587",
+    "name": "Bio Degradable Covers in all sizes",
+    "category": "General",
+    "description": "",
+    "badge": "",
+    "image": "/products/bio-covers-1775318475562.png",
+    "filename": "bio-covers-1775318475562.png",
+    "createdAt": "2026-04-04T16:01:15.587Z",
+    "zoom": 1,
+    "fit": "contain",
+    "updatedAt": "2026-04-04T16:24:22.858Z"
+  },
+  {
+    "id": "1775320136631",
+    "name": "Leaf Plates in all sizes",
+    "image": "/products/leaf-plates-1775320136602.png",
+    "zoom": 1.3,
+    "fit": "contain",
+    "createdAt": "2026-04-04T16:28:56.631Z",
+    "updatedAt": "2026-04-04T16:30:43.431Z"
+  },
+  {
+    "id": "1775320410480",
+    "name": "Round food grade containers",
+    "image": "/products/containers-1775320410450.png",
+    "zoom": 1,
+    "fit": "cover",
+    "createdAt": "2026-04-04T16:33:30.480Z"
+  },
+  {
+    "id": "1775320668193",
+    "name": "Box shaped food grade containers",
+    "image": "/products/black-containers-1775320668170.png",
+    "zoom": 1,
+    "fit": "contain",
+    "createdAt": "2026-04-04T16:37:48.193Z",
+    "updatedAt": "2026-04-04T16:38:01.116Z"
+  },
+  {
+    "id": "1775320832793",
+    "name": "Thali parcel containers",
+    "image": "/products/thali-boxes-1775320832771.png",
+    "zoom": 1,
+    "fit": "contain",
+    "createdAt": "2026-04-04T16:40:32.793Z",
+    "updatedAt": "2026-04-04T16:40:43.142Z"
+  },
+  {
+    "id": "1775320975153",
+    "name": "Plates made of sugercane (Bio)",
+    "image": "/products/sugercane-platess-1775320975137.png",
+    "zoom": 1,
+    "fit": "contain",
+    "createdAt": "2026-04-04T16:42:55.153Z",
+    "updatedAt": "2026-04-04T16:43:09.914Z"
+  },
+  {
+    "id": "1775322457223",
+    "name": "Wooden Cutlery",
+    "image": "/products/wooden-cutlery-1775322457172.png",
+    "zoom": 0.8,
+    "fit": "contain",
+    "createdAt": "2026-04-04T17:07:37.223Z",
+    "updatedAt": "2026-04-04T17:08:45.962Z"
+  },
+  {
+    "id": "1775325806399",
+    "name": "Paper glass and Bio glass varieties",
+    "image": "/products/glasses-1775325806347.png",
+    "zoom": 1,
+    "fit": "cover",
+    "createdAt": "2026-04-04T18:03:26.399Z"
+  },
+  {
+    "id": "1775326014000",
+    "name": "Tapes and Plasters",
+    "image": "/products/tapes-1775326013962.png",
+    "zoom": 0.9,
+    "fit": "cover",
+    "createdAt": "2026-04-04T18:06:54.002Z"
+  },
+  {
+    "id": "1775326555171",
+    "name": "Tissues and Napkins",
+    "image": "/products/tissues-1775326555137.png",
+    "zoom": 0.9,
+    "fit": "cover",
+    "createdAt": "2026-04-04T18:15:55.171Z"
+  },
+  {
+    "id": "1775326753088",
+    "name": "Leaf and Fancy Cups",
+    "image": "/products/cups-1775326753038.png",
+    "zoom": 1,
+    "fit": "contain",
+    "createdAt": "2026-04-04T18:19:13.088Z"
+  },
+  {
+    "id": "1775327030053",
+    "name": "Packing and Sealing Machines",
+    "image": "/products/packing-and-sealing-machines-1775327030000.png",
+    "zoom": 1,
+    "fit": "contain",
+    "createdAt": "2026-04-04T18:23:50.053Z"
+  },
+  {
+    "id": "1775327542603",
+    "name": "Clay glasses and cups",
+    "image": "/products/clay-cups-1775327542568.png",
+    "zoom": 1,
+    "fit": "contain",
+    "createdAt": "2026-04-04T18:32:22.603Z"
+  },
+  {
+    "id": "1775328164905",
+    "name": "Standing pouches",
+    "image": "/products/standing-pouches-1775328164871.png",
+    "zoom": 0.9,
+    "fit": "cover",
+    "createdAt": "2026-04-04T18:42:44.905Z"
+  },
+  {
+    "id": "1775328443136",
+    "name": "Wraps and Foils",
+    "image": "/products/wraps-1775328442997.png",
+    "zoom": 1,
+    "fit": "cover",
+    "createdAt": "2026-04-04T18:47:23.136Z"
+  },
+  {
+    "id": "1775328612135",
+    "name": "Fancy Gift Bags",
+    "image": "/products/gift-bags-1775328612103.png",
+    "zoom": 0.9,
+    "fit": "cover",
+    "createdAt": "2026-04-04T18:50:12.135Z"
+  },
+  {
+    "id": "1775328832040",
+    "name": "Paper Covers",
+    "image": "/products/paper-covers-1775328832013.png",
+    "zoom": 1.1,
+    "fit": "contain",
+    "createdAt": "2026-04-04T18:53:52.040Z"
+  },
+  {
+    "id": "1775329170661",
+    "name": "Brooms, wipers and mops",
+    "image": "/products/brooms-1775329170636.png",
+    "zoom": 1.3,
+    "fit": "contain",
+    "createdAt": "2026-04-04T18:59:30.661Z"
+  }
+]
